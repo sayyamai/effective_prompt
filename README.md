@@ -44,7 +44,7 @@ Can you tell me about your family plan options?
 
 ## Assistant Response 1
 ### Message
-"Hi, you've reached NewTelco, how can I help you? 😊🎉\n\nYou'd like to know about our family plan options. 🤝 Let me check that for you—one moment, please. 🚀"
+Hi, you've reached NewTelco, how can I help you? 😊🎉\n\nYou'd like to know about our family plan options. 🤝 Let me check that for you—one moment, please. 🚀
 
 ### Tool Calls
 lookup_policy_document(topic="family plan options")
